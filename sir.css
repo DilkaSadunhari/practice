@@ -1,0 +1,46 @@
+.message {
+    background-color: rgb(220, 220, 217);
+    margin: 0px;
+    padding-left: 150px;
+    padding-top: 40px;
+    padding-right: 150px;
+    padding-bottom: 30px;
+    display: flex;
+}
+
+.message img{
+    padding-top: 20px;
+}
+.info {
+    margin: 0px;
+    padding-left: 70px;
+    padding-right: 100px;
+    width: 850px;
+}
+
+.info h2 {
+    font-family: 'Trebuchet MS', sans-serif;
+    color: rgb(93, 92, 92);
+}
+
+.info p {
+    font-family: Arial, sans-serif;
+    line-height: 1.5;
+    color: rgb(83, 80, 80);
+}
+
+.info2 {
+    width: 330px;
+}
+
+.heading {
+    font-family: Tahoma, sans-serif;
+    font-size: 25px;
+    color: rgb(122, 40, 40);
+}
+
+.normal {
+    font-size: 18px;
+    font-family: Arial, sans-serif;
+    line-height: 1.5;
+}
